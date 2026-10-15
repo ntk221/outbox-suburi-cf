@@ -2,6 +2,10 @@
 
 Durable Object の SQLite で、注文の更新と「外に出すイベント（outbox）」を同じトランザクションで書き、alarm で outbox を読んで Queue に流し、お客さんにメールを送る（ログに出すだけ）最小構成です。
 
+![構成図](docs/architecture.png)
+
+図の元は `docs/architecture.excalidraw`（Excalidraw で開いて編集できます）。PNG は `excalidraw render docs/architecture.excalidraw --out docs/architecture.png --scale 2` で描き出しています。
+
 ```
 PUT /orders/:id ─→ OrdersDB（Durable Object）
                      ┌ transactionSync() ───────────┐
