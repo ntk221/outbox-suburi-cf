@@ -1,0 +1,15 @@
+{
+  "name": "outbox-suburi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cf dev",
+    "deploy": "cf deploy",
+    "demo": "sh demo.sh"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "beta",
+    "cf": "^1.0.0-beta.17",
+    "vite": "^8"
+  }
+}
