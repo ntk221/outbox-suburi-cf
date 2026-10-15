@@ -6,21 +6,6 @@ Durable Object の SQLite で、注文の更新と「外に出すイベント（
 
 図の元は `docs/architecture.excalidraw`（Excalidraw で開いて編集できます）。PNG は `excalidraw render docs/architecture.excalidraw --out docs/architecture.png --scale 2` で描き出しています。
 
-```
-PUT /orders/:id ─→ OrdersDB（Durable Object）
-                     ┌ transactionSync() ───────────┐
-                     │ orders … 業務テーブル         │
-                     │ outbox … 外に出すイベント     │ ← 両方を同じトランザクションで書く
-                     └──────────────────────────────┘
-                     alarm() … outbox を読んで Queue に送る（中継役）
-                                    ↓
-                                Queues（order-events）
-                                    ↓
-                     queue() ─→ MailSender（Durable Object）
-                                ・送った seq を覚えて、2回目は送らない
-                                ・注文ごとに、1つ前のメールを送るまで次は保留
-```
-
 イベントには `prev_seq`（同じ注文の1つ前のイベントの seq）を入れています。MailSender は、注文ごとに最後に送った seq と `prev_seq` が一致したときだけ送り、一致しなければ保留します。
 
 ## 動かし方（ローカルだけで動きます。Cloudflare のアカウントは不要）
