@@ -5,7 +5,7 @@
  "elements": [
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -41,8 +41,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#4a9eed",
-   "backgroundColor": "#a5d8ff",
+   "strokeColor": "#6a9bcc",
+   "backgroundColor": "#c5d3e0",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -79,7 +79,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -115,13 +115,13 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#06b6d4",
-   "backgroundColor": "#c3fae8",
+   "strokeColor": "#a5a49a",
+   "backgroundColor": "#e3dacc",
    "fillStyle": "solid",
    "strokeWidth": 1,
    "strokeStyle": "solid",
    "roughness": 1,
-   "opacity": 35,
+   "opacity": 45,
    "groupIds": [],
    "frameId": null,
    "roundness": {
@@ -144,7 +144,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#0e7490",
+   "strokeColor": "#52514e",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -180,7 +180,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#757575",
+   "strokeColor": "#898781",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 1,
@@ -214,7 +214,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#757575",
+   "strokeColor": "#6d6b67",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -250,7 +250,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#52514e",
    "backgroundColor": "#ffffff",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -284,7 +284,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -320,8 +320,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#f59e0b",
-   "backgroundColor": "#fff3bf",
+   "strokeColor": "#f0ac54",
+   "backgroundColor": "#f5dfb8",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -358,7 +358,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -394,8 +394,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#8b5cf6",
-   "backgroundColor": "#d0bfff",
+   "strokeColor": "#827dbd",
+   "backgroundColor": "#cbcadb",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -440,7 +440,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -476,8 +476,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#f59e0b",
-   "backgroundColor": "#ffd8a8",
+   "strokeColor": "#d97757",
+   "backgroundColor": "#e3dacc",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -518,7 +518,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -554,8 +554,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#22c55e",
-   "backgroundColor": "#b2f2bb",
+   "strokeColor": "#629987",
+   "backgroundColor": "#bcd1ca",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -592,7 +592,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -628,8 +628,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#ef4444",
-   "backgroundColor": "#ffc9c9",
+   "strokeColor": "#de6262",
+   "backgroundColor": "#ebcccc",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -670,7 +670,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -706,8 +706,8 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#4a9eed",
-   "backgroundColor": "#a5d8ff",
+   "strokeColor": "#6a9bcc",
+   "backgroundColor": "#c5d3e0",
    "fillStyle": "solid",
    "strokeWidth": 2,
    "strokeStyle": "solid",
@@ -744,7 +744,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -780,7 +780,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -833,7 +833,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#f59e0b",
+   "strokeColor": "#c6613f",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -891,7 +891,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -927,7 +927,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#8b5cf6",
+   "strokeColor": "#827dbd",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -985,7 +985,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1021,7 +1021,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#f59e0b",
+   "strokeColor": "#c6613f",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1079,7 +1079,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1115,7 +1115,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#ef4444",
+   "strokeColor": "#de6262",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1173,7 +1173,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1209,7 +1209,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#1e1e1e",
+   "strokeColor": "#0b0b0b",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1262,7 +1262,7 @@
   },
   {
    "angle": 0,
-   "strokeColor": "#757575",
+   "strokeColor": "#6d6b67",
    "backgroundColor": "transparent",
    "fillStyle": "solid",
    "strokeWidth": 2,
@@ -1298,7 +1298,7 @@
   }
  ],
  "appState": {
-  "viewBackgroundColor": "#ffffff",
+  "viewBackgroundColor": "#f9f9f7",
   "gridSize": null
  },
  "files": {}
